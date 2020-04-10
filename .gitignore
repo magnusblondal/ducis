@@ -1,0 +1,5 @@
+node_modules
+*.log
+API_*
+*-lock.json
+
